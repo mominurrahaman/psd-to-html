@@ -1,0 +1,295 @@
+@media only screen and (max-width: 1200px){
+	.menu ul li a{
+		font-size: 12px;
+	}	
+    
+}
+
+
+@media only screen and (max-width: 1140px){
+	.menu ul li a{
+		font-size: 12px;
+	}	
+
+	.about-content h1{
+	font-size: 40px;
+	color: #011c4b;
+}
+
+.about-content p{
+	font-size: 16px;
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 991.96px){
+.btn-call{
+	display: none;
+}
+
+.menu ul li a{
+		font-size: 16px;
+	}
+
+
+	.law-content{
+
+	width: 147px;
+
+}
+
+.law-content img {
+    padding-left: 30px;
+    padding-top: 17px;
+}
+ .heading-text h1{
+ 	font-size: 40px;
+ }
+	.banner-content p{
+		font-size: 16px;
+	}
+	.banner-content h1{
+		font-size: 35px;
+	}
+
+
+	/*about css*/	
+  .about-content {
+  	margin-top: 0;
+  }
+	.about-content h1{
+	font-size: 25px;
+	color: #011c4b;
+}
+
+.about-content p{
+	font-size: 14px;
+}
+
+.about .btn-about{
+	margin-top:0;
+	font-size: 12px;
+	
+} 
+
+/*information css*/
+
+
+.thumbnail-post h5{
+	font-size:13px ;
+	
+}
+
+.thumbnail-post p{
+	font-size:12px ;
+	
+}
+
+/*banner2 css*/
+
+.banner2-content h1{
+	font-size: 28px;
+	
+}
+
+.banner2-content p{
+	font-size: 12px;
+	
+}
+
+.testimonial p{
+	font-size: 12px;
+}
+
+.testimonial i{
+	font-size: 40px;
+}
+
+.banner3-content h1{
+	font-size: 33px;
+}
+
+/*footer*/
+
+.footer-content ul li{
+	margin-right: 20px !important;
+}
+
+.info i, p{
+	font-size: 10px;
+}
+
+footer h4{
+	font-size: 20px;
+}
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 767.96px){
+		.law-content{
+
+	width: 215px;
+	margin-top: 20px;
+
+}
+
+	.law-content img {
+    padding-left: 65px;
+    padding-top: 17px;
+}
+
+.heading-text h1{
+ 	font-size: 30px;
+ }
+
+
+	.banner-content .role{
+		font-size: 10px;
+	}
+	.banner-content p{
+		font-size: 12px;
+	}
+	.banner-content h1{
+		font-size: 30px;
+	}	
+
+	.banner-button .btn-custom{
+		font-size: 12px;
+	}	
+
+	/*about css*/	
+  .about-content {
+  	margin-top: 30px;
+  }
+
+  /*logo css*/
+
+  .client-logo{
+	margin-top: 0;
+}
+
+.client-logo img:nth-child(2){
+	height: 50px;
+}
+
+.client-logo img:nth-child(1){
+	height:180px;
+}
+
+.client-logo img:nth-child(3){
+	height:60px;
+}
+
+/*information css*/
+
+.thumbnail-post img{
+	text-align: center;
+	
+}
+
+.thumbnail-post h5{
+	font-size: 20px;
+}
+.carousel-control-next-icon i{
+	font-size: 20px;
+}
+.carousel-control-prev-icon i{
+	font-size: 20px;
+}
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 575.96px){
+	
+nav a img{
+	height: 12px !important;
+}
+
+.law-content{
+width:140px;
+
+}
+
+.law-content img {
+    padding-left: 31px;
+    padding-top: 17px;
+}
+
+
+
+.about-content h1{
+	font-size: 20px;
+	
+}
+
+.about-content p{
+	font-size: 12px;
+}
+
+.about .btn-about{
+	margin-top:0;
+	font-size: 10px;
+	
+} 
+
+.client-logo img:nth-child(2){
+	height: 30px;
+}
+
+.client-logo img:nth-child(1){
+	height:130px;
+}
+
+.client-logo img:nth-child(3){
+	height:45px;
+}
+
+.testimonial .quata i{
+	display: none;
+}
+
+.testimonial p{
+	font-size: 10px;
+	text-align: center;
+	
+	padding-bottom: 30px;
+	font-family: leto-italic;
+}
+
+.banner3-content h1{
+	font-size: 27px;
+}
+
+.footer p{
+	text-align: center;
+	font-size: 10px;
+}
+
+
+}
+
+
+@media only screen and (max-width: 319.96px){
+	
+	.banner-content h1{
+		font-size: 22px;
+	}
+
+	.client-logo img:nth-child(2){
+	margin-bottom: 10px;
+}
+}
